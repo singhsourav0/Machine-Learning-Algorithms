@@ -1,5 +1,24 @@
 # Machine-Learning-Algorithms
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)](https://scikit-learn.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-EC9135?logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-EBE306?logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?logo=catboost&logoColor=white)](https://catboost.ai/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-7A0DCB?logo=statsmodels&logoColor=white)](https://www.statsmodels.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-85EA2D?logo=nltk&logoColor=white)](https://www.nltk.org/)
+[![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?logo=spacy&logoColor=white)](https://spacy.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+
 This repository contains implementations of various machine learning algorithms from scratch in Python. It aims to provide a comprehensive resource for students, researchers, and practitioners to explore and understand the fundamentals of machine learning.
 
 ## Purpose
